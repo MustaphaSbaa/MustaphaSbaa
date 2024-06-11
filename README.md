@@ -42,14 +42,14 @@
 <br/>
 
 <hr/>
-
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
  https://github.com/MustaphaSbaa/MustaphaSbaa/blob/output/github-contribution-grid-snake.gif
   <br/><br/><br/>
 </div>
-
+-->
 <hr/>
 
 
